@@ -1,1 +1,3 @@
-# lian
+# writings
+
+http://iridescent.ink/writings/
