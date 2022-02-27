@@ -5,13 +5,13 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/books" # the subpath of your site, e.g. /blog
+baseurl: "/writings" # the subpath of your site, e.g. /blog
 url: "http://iridescent.ink/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: love together # add banner title
-banner-desc: 2017, we fall in love; 2018, we live together; 2019, we love forever! # add banner description
+banner-title: write something... # add banner title
+banner-desc: Some of us get dipped in flat, some in satin, some in gloss, but every once in a while, you find someone who's iridescent. And when you do, nothing will ever compare. -- Flipped, # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
